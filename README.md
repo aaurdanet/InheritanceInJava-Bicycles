@@ -41,16 +41,3 @@ for (int i = 0; i < eSize; i++) {
     System.out.println(myBike[i]);
 }
 
-Usage
-
-    Clone the repository:
-
-    bash
-
-git clone https://github.com/yourusername/InheritanceClassForBicycle.git
-
-Open the project in your preferred Java development environment.
-
-Run the InheritanceClassForBicycle class.
-
-View the output in the console, which will display the details of each bike.
